@@ -5,3 +5,23 @@
   display: inline-block;
   margin-bottom: 50px;
 }
+
+.menuTitle {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.startersTitle {
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.mainTitle {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.dessertTitle {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}

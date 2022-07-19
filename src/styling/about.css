@@ -9,7 +9,10 @@
 }
 
 .aboutTitle {
+  padding-top: 25px;
+  padding-bottom: 15px;
 }
 
 .aboutP {
+  padding: 25px;
 }
