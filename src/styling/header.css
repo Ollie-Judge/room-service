@@ -1,11 +1,17 @@
 header {
   margin: 0;
   padding: 0;
-  background-color: #73a9ad;
+  background-color: #90c8ac;
 }
 
 ul {
   list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  margin-right: 35px;
 }
 
 a {

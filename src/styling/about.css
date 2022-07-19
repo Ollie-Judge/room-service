@@ -1,0 +1,15 @@
+#about {
+  width: 50%;
+  display: inline-block;
+  background-color: #c4dfaa;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 15px;
+}
+
+.aboutTitle {
+}
+
+.aboutP {
+}

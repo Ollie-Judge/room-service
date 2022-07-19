@@ -1,4 +1,5 @@
 import React from "react";
+import "../styling/menu.css";
 
 const Menu = () => {
   return (
