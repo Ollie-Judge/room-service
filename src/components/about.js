@@ -7,7 +7,9 @@ const About = () => {
         <h5>About Us</h5>
       </div>
 
-      <div></div>
+      <div>
+        <p></p>
+      </div>
     </div>
   );
 };
