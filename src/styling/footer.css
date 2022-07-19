@@ -1,5 +1,8 @@
 footer {
   margin: 0;
-  padding: 0;
+  padding-top: 35px;
+  padding-bottom: 35px;
   background-color: #90c8ac;
+  display: flex;
+  justify-content: space-evenly;
 }
