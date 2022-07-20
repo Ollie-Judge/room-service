@@ -8,7 +8,7 @@ const Menu = () => {
         <h4>Menu</h4>
       </div>
 
-      <div>
+      <div className="menuNav">
         <ul>
           <li>
             <a href="#starters">Starters</a>

@@ -4,6 +4,10 @@ header {
   background-color: #90c8ac;
 }
 
+.websiteTitle {
+  margin: 15px;
+}
+
 nav {
   margin-top: 40px;
   margin-bottom: 15px;

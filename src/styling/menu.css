@@ -6,6 +6,11 @@
   margin-bottom: 50px;
 }
 
+.menuNav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .menuTitle {
   padding-top: 50px;
   padding-bottom: 50px;

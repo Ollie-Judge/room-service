@@ -4,7 +4,7 @@ import "../styling/header.css";
 const Header = () => {
   return (
     <header>
-      <h1>Room Service</h1>
+      <h1 className="websiteTitle">Room Service</h1>
 
       <nav>
         <ul>
