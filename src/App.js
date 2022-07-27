@@ -3,6 +3,8 @@ import Header from "./components/header";
 import About from "./components/about";
 import Menu from "./components/menu";
 import Footer from "./components/footer";
+import Foods from "./components/foods/foods";
+import Form from "./components/form/form";
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <Header />
       <About />
       <Menu />
+      <Foods />
+      <Form />
       <Footer />
     </div>
   );

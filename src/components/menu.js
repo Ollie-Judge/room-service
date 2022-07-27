@@ -1,5 +1,6 @@
 import React from "react";
 import "../styling/menu.css";
+import Food from "./foods/food/food";
 
 const Menu = () => {
   return (
@@ -24,14 +25,17 @@ const Menu = () => {
 
       <div className="startersTitle">
         <h5 id="starers">Starters</h5>
+        <Food />
       </div>
 
       <div className="mainTitle">
         <h5 id="main">Main Course</h5>
+        <Food />
       </div>
 
       <div className="dessertTitle">
         <h5 id="dessert">Dessert</h5>
+        <Food />
       </div>
     </div>
   );
