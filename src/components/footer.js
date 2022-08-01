@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h6>Room Service</h6>
+        <h5>Room Service application M38</h5>
       </div>
 
       <div className="socialMedia">
